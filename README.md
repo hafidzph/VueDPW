@@ -6,8 +6,7 @@
 ### 4. After that, direct to folder VueDPW using command "cd VueDPW"
 ### 5. Then install the dependencies using command "npm install".
 ### 6. After dependencies is successfully installed, then run command "npm run dev" to run this program.
-### 7. You will see localhost link there, copy that and open in your browser.
-### 8. Enjoy the program.
+### 7. You will see localhost link there, copy that and paste in your browser to open the program.
 
 
 
